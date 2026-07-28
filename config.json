@@ -1,1 +1,6 @@
-
+{
+  "base_content_url": "https://raw.githubusercontent.com/mrakshayku27-creator/rajasthan_quiz_data/main",
+  "app_version": "1.0.0",
+  "maintenance_mode": false,
+  "daily_reward_limit": 10
+}
